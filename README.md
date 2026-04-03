@@ -1,2 +1,2 @@
 # porfolio-site
-um site estático que também serve como porfólio
+um site estático que também servirá como informações sobre mim
