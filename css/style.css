@@ -68,19 +68,19 @@ section#home p {
 
 }
 
-.container {
+.quote {
     display: flex;
     align-items: flex-start;
     justify-content: center;
     gap: 20px;
 }
 
-.container a {
+.quote a {
     text-decoration: none;
     color: var(--links);
 }
 
-.container q {
+blockquote {
     flex: 1;
     background-color: var(--mantle);
     border-radius: 20px;
@@ -89,10 +89,10 @@ section#home p {
     display: flex;
     font-size: 20px;
     max-width: 500px;
-    margin: 20px;
+    margin: 30px;
 }
 
-.container q:hover {
+ blockquote:hover {
     transform: var(--transform);
     transition: var(--transition);
     box-shadow: var(--shadow);
@@ -110,7 +110,7 @@ section#home p {
 
 .card {
     margin: 10px;
-    padding: 10px;
+    padding: 20px;
     background-color: var(--mantle);
     color: var(--text);
     border-radius: 20px;
