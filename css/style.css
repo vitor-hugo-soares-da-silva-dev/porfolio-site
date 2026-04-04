@@ -14,12 +14,17 @@
 
 @font-face {
     font-family: "NerdFont";
-    src: url("/assets/fonts/3270NerdFontPropo-Regular.woff2") format("woff");
+    src: url("../assets/fonts/3270NerdFontPropo-Regular.woff2") format("woff");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 body {
     font-family: NerdFont;
     scroll-behavior: smooth;
@@ -44,7 +49,8 @@ h1 {
 }
 img {
     aspect-ratio: 1 / 1 ;
-    width: 300px;
+    width: 200px;
+    max-width: 100%;
     border-radius: 50%;
     border: 3px solid var(--accent);
     box-shadow: 0 5px 15px rgba(0,0,0,0.3);
