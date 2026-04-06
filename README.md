@@ -20,4 +20,4 @@ TODO:
 - [ ] página educação
 - [ ] página projetos
 - [ ] página contato
-- [] responsividade
+- [ ] responsividade
