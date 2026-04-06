@@ -1,4 +1,4 @@
-# porfolio-site
+# portfolio-site
 Um site estático que também servirá como informações sobre mim e de portfólio
 
 ### hospedado em: 
@@ -10,10 +10,13 @@ https://vitor-hugo-soares-da-silva-dev.github.io/porfolio-site/
 ## Página sobre mim:
 <img width="2526" height="1276" alt="Screenshot 2026-04-04 at 11-16-09 Sobre mim" src="https://github.com/user-attachments/assets/fdfe6f62-be3c-4a4a-9d5c-a05502564d06" />
 
+## Página Pets:
+<img width="2526" height="1276" alt="Screenshot 2026-04-06 at 10-11-53 Pets" src="https://github.com/user-attachments/assets/6c5c4f7b-0d67-489c-b5e1-dac9fe476e3f" />
+
 TODO:
 - [x] página home
 - [x] página sobre mim
-- [ ] página pets
+- [x] página pets
 - [ ] página educação
 - [ ] página projetos
 - [ ] página contato
